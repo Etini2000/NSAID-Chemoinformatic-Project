@@ -1,4 +1,4 @@
-This a simple cheminformatics practice project.
+# This a simple cheminformatics practice project.
 
 ## What did I do?
 
